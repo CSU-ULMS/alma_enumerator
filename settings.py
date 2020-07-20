@@ -11,7 +11,7 @@ api_key=''
 
 # This is simply the seperator for ranges for issues (or bound volumes) that cover
 # multiple seasons, issues, years, etc. Currently supported options are: '-' or '/'.
-range_seperator = '/'
+range_seperator = '-'
 
 # This is the ID of the bib record for which you want to update item information.
 # You'll need to change it for each bib record.
@@ -22,10 +22,10 @@ mms_id = ''
 # On Windows, this path will look something like 'C::\\Users\\username\\path\\to\\folder'.
 # On Mac OS X and Linux, it will look something like '/Users/username/path/to/directory'
 # or '/home/username/path/to/directory/'. 
-output_file = ''
+output_file = 'out.txt'
 
 # The location of the output file for records you'll need to update by hand.
-error_file = ''
+error_file = 'error.txt'
 
 # The location of the input file for the records that can be automatically updated. Unless
 # you want to edit the output file and save it to with a new name, setting the input file to

@@ -1,3 +1,7 @@
+Watch this Youtube video to see it in Action:
+https://youtu.be/6DGpeZfTL_I
+
+
 # ae: alma enumerator
 ## About
 Alma Enumerator is set of Python scripts to update enumeration and chronology
